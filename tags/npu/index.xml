@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Npu on Technical Articles</title>
+    <link>http://localhost:1313/tags/npu/</link>
+    <description>Recent content in Npu on Technical Articles</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/npu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intel NPU</title>
+      <link>http://localhost:1313/post/2024-09-17-all-about-intel-npu/</link>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2024-09-17-all-about-intel-npu/</guid>
+      <description>&lt;p&gt;Intel&amp;rsquo;s NPU stands for Neural Processing Unit&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

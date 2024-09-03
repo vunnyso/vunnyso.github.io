@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Technical Articles</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Technical Articles</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ethernet Sharing</title>
+      <link>http://localhost:1313/post/2024-10-03-ethernet-sharing/</link>
+      <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2024-10-03-ethernet-sharing/</guid>
+      <description>&lt;p&gt;Steps to share ethernet&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nix Derivation</title>
+      <link>http://localhost:1313/post/2024-09-25-nix-derivation/</link>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2024-09-25-nix-derivation/</guid>
+      <description>&lt;p&gt;Montior you system processes and resources from GUI&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Linux Task Managers</title>
+      <link>http://localhost:1313/post/2024-09-22-task-manager-in-linux/</link>
+      <pubDate>Sun, 22 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2024-09-22-task-manager-in-linux/</guid>
+      <description>&lt;p&gt;Montior you system processes and resources from GUI&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Intel NPU</title>
+      <link>http://localhost:1313/post/2024-09-17-all-about-intel-npu/</link>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2024-09-17-all-about-intel-npu/</guid>
+      <description>&lt;p&gt;Intel&amp;rsquo;s NPU stands for Neural Processing Unit&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nix Basics</title>
+      <link>http://localhost:1313/post/2024-09-11-nix-basics/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2024-09-11-nix-basics/</guid>
+      <description>&lt;p&gt;Nix is a purely functional package manager and system configuration tool. Nix was created in 2023 by Eelco Dolstra&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Build custom kernel with Nix</title>
+      <link>http://localhost:1313/post/2024-09-08-build-kernel-with-nix/</link>
+      <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2024-09-08-build-kernel-with-nix/</guid>
+      <description>&lt;p&gt;This guide of building drm-tip kernel using Nix&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Flash IFWI / BIOS on Lenovo X1 Carbon System</title>
+      <link>http://localhost:1313/post/2024-09-05-bios-flashing-on-lenovo/</link>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2024-09-05-bios-flashing-on-lenovo/</guid>
+      <description>&lt;p&gt;If you planning to upgrade your system BIOS / IFWI follow the below guide&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to build static website</title>
+      <link>http://localhost:1313/post/2024-09-01-how-to-build-static-website/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2024-09-01-how-to-build-static-website/</guid>
+      <description>&lt;p&gt;Detailed steps in building static website using Hugo&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&#xA;Hugo makes use of a variety of open source projects including:&#xA;https://github.com/yuin/goldmark https://github.</description>
+    </item>
+    <item>
+      <title>Archives</title>
+      <link>http://localhost:1313/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/archives/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Search</title>
+      <link>http://localhost:1313/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/search/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

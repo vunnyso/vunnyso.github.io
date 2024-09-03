@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BIOS on Technical Articles</title>
+    <link>http://localhost:1313/tags/bios/</link>
+    <description>Recent content in BIOS on Technical Articles</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/bios/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flash IFWI / BIOS on Lenovo X1 Carbon System</title>
+      <link>http://localhost:1313/post/2024-09-05-bios-flashing-on-lenovo/</link>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2024-09-05-bios-flashing-on-lenovo/</guid>
+      <description>&lt;p&gt;If you planning to upgrade your system BIOS / IFWI follow the below guide&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
